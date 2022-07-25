@@ -1,1 +1,1 @@
-# simple-modal-window-procject
+# simple-modal-window-project
